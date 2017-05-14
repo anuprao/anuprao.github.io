@@ -1,0 +1,68 @@
+html {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	
+	font-family: "Lato";
+	
+	height: 100%;
+	
+	margin: 0px;    
+	
+	padding: 0px;
+	
+	width: 100%;	
+}
+    
+body {
+    background-color: #dfdfdf;
+    font-family: "Lato";
+    
+    height: 100%;
+    
+	margin: 0px;
+	
+	padding: 0px;
+	
+	width: 100%;
+}
+
+.box  {
+	background-color: white;
+	border: 1px solid rgba(0, 0, 0, .3);
+	border-radius: 7px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+	
+	color: rgb(102, 102, 102);
+	
+	display: block;
+	
+	font-size: 40px;
+	
+	height: 720px;
+	
+	padding: 30px 50px;
+	
+	width: 1280px;
+}
+
+footer {
+	background-color: #f0f0f0;
+	bottom: 0;
+	
+	color: rgb(102, 102, 102);
+	
+	height: 30px;
+	
+	margin: 0px;
+	
+	padding: 7px 10px 0px 10px;
+	position: fixed;
+	
+	width: 100%;
+}
+  
+footer a,u {  
+	color: rgb(102, 102, 102);
+	
+	text-decoration: none;
+}
